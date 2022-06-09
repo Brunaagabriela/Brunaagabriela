@@ -1,6 +1,7 @@
 ### Ola, Bem Vindos! 👋
 
-<!--
+🚀- Estudante de Analise e Desenvolvimento de Sistemas
+<⚡_Apaixonada por Front-End_
 **Brunaagabriela/Brunaagabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
