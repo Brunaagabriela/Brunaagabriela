@@ -6,7 +6,7 @@
 
 🌎 De SP, vivendo em **Florianópolis**  
 🎓 Estudante de **Engenharia de Software**  
-🎯 Foco atual: **Desenvolvimento Front-End** + automações via API  
+🎯 Foco atual: **Desenvolvimento Front-End** 
 🎨 Amo transformar ideias em interfaces que façam sentido!
 
 ---
@@ -21,9 +21,11 @@
 
 ### 📌 Repositório em destaque
 
-🔎 [`verificar-pipeline-bitrix24`](https://github.com/Brunaagabriela/verificar-pipeline-bitrix24)  
-> Scripts para consultar negócios e negócios recorrentes por pipeline no Bitrix24 via API REST.  
-> Feito em **Python**, porque sim 🐍
+🧠 [`entend-me`](https://github.com/Brunaagabriela/entend-me)  
+> Aplicação web feita com React + Firebase para casais que desejam entender e acompanhar seus estados emocionais.  
+> 💜 Destaque para animações com Lottie e um sistema de percepções interativas.  
+> ✅ Projeto funcional — atualmente estou trabalhando na **otimização do front-end**, por isso algumas atualizações ainda não estão disponíveis no repositório.  
+> Feito com **React**, **Tailwind CSS** e **Firebase**, porque sim 🐒✨
 
 ---
 
